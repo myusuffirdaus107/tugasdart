@@ -64,7 +64,7 @@ dataMahasiswa(){
 
     if (pilihanMatkul == '2'){
       print(matakuliah);
-      dataMahasiswa();
+      question();
     }
 }
 
